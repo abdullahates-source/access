@@ -1,0 +1,149 @@
+[
+  {
+    "name": "TRT 1",
+    "group": "TRT",
+    "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT 2",
+    "group": "TRT",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Spor",
+    "group": "TRT",
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Spor Yildiz",
+    "group": "TRT",
+    "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Haber",
+    "group": "TRT",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Cocuk",
+    "group": "TRT",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT World",
+    "group": "TRT",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Belgesel",
+    "group": "TRT",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Muzik",
+    "group": "TRT",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Turk",
+    "group": "TRT",
+    "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Kurdi",
+    "group": "TRT",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Arabi",
+    "group": "TRT",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Avaz",
+    "group": "TRT",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT EBA",
+    "group": "TRT",
+    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TRT Genc",
+    "group": "TRT",
+    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+    "source": "https://www.trtbelgesel.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "Kanal D",
+    "group": "Turkiye",
+    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+    "source": "https://www.kanald.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TV8",
+    "group": "Turkiye",
+    "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+    "source": "https://www.tv8.com.tr/canli-yayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "Kanal 7",
+    "group": "Turkiye",
+    "url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+    "source": "https://www.kanal7.com/canli-yayin-iframe.php",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "Kanal 7 Avrupa",
+    "group": "Turkiye",
+    "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+    "source": "https://www.kanal7.com/canli-yayin-iframe-avrupa.php",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "Haberturk",
+    "group": "Turkiye",
+    "url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+    "source": "https://www.haberturk.com/canliyayin",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TGRT Haber",
+    "group": "Turkiye",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "source": "https://www.tgrteu.com/canli-yayin",
+    "verified_on": "2026-10-25"
+  }
+]
