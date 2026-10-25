@@ -1,6 +1,65 @@
 #EXTM3U
-# Resmi yayin sayfalarindan dogrulandi: 2026-10-25
+# Verified official sources: 2026-10-25. Availability may change.
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Spor Yildiz
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+# Source: https://www.trtbelgesel.com.tr/canli-yayin
+#EXTINF:-1 group-title="TRT",TRT Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+# Source: https://www.kanald.com.tr/canli-yayin
 #EXTINF:-1 group-title="Turkiye",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+# Source: https://www.tv8.com.tr/canli-yayin
 #EXTINF:-1 group-title="Turkiye",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+# Source: https://www.kanal7.com/canli-yayin-iframe.php
+#EXTINF:-1 group-title="Turkiye",Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+# Source: https://www.kanal7.com/canli-yayin-iframe-avrupa.php
+#EXTINF:-1 group-title="Turkiye",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+# Source: https://www.haberturk.com/canliyayin
+#EXTINF:-1 group-title="Turkiye",Haberturk
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+# Source: https://www.tgrteu.com/canli-yayin
+#EXTINF:-1 group-title="Turkiye",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
