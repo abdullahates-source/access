@@ -1,30 +1,21 @@
-# CarTV kanal listesi
+# CarTV resmî kanal listesi
 
-CarTV M3U adresi:
+CarTV'de liste ekle veya mevcut listeyi yenile:
 https://raw.githubusercontent.com/abdullahates-source/access/main/playlist.m3u
 
-## Kapsam
-- TV+ resmî kanal kataloğu: 156 kanal (25 Ekim 2026 tarihli sayfa).
-- Oynatılabilir M3U: bağımsız resmî kaynaklardan doğrulanan 21 yayın.
-- TV+ kataloğuyla 20 eşleşme; Kanal 7 Avrupa ayrıca korunur.
-- Kanal numaraları eşleşen yayınlara tvg-chno olarak eklenir. CarTV bu alanı desteklemeyebilir.
-- Katalogda olmak, M3U yayını bulunduğu veya bir TV+ paketinde erişim hakkı olduğu anlamına gelmez.
+25 Ekim 2026 itibarıyla 25 resmî kaynaklı yayın bulunur. Star TV, HT Spor, 360 TV ve TV4 eklendi. Her kaydın kaynak adresi ve kontrol tarihi official_streams.json dosyasındadır.
+
+TV+ kataloğu, kanal numaraları ve TV+ bağlantısı kaldırılmıştır. Üyelik, kullanıcı adı, şifre, çerez veya oturum anahtarı kullanılmaz.
+
+Gönderilen Gist'teki 56 adresin 29'unda teknik video erişimi sağlandı. Bunların tümünün resmî kaynak bağlantısı doğrulanamadığından hepsi eklenmedi. ATV, A2, A Haber, A Spor ve Minika için bulunan güncel resmî adresler erişimi reddetti. Bu kanallar için kısıtlama aşılmadı. Star TV için eski oturum parametresi yerine resmî oynatıcının ana yayın adresi kullanıldı.
 
 ## Dosyalar
-- playlist.m3u: CarTV'ye eklenecek yayın listesi.
-- tvplus_channels.json: kanal numarası, adı, TV+ sayfası ve doğrulanmış yayın eşleşmesi.
-- official_streams.json: 25 Ekim 2026'da yayın listesi ve video parçası erişimi kontrol edilmiş resmî adresler ve kaynakları.
-- build_playlist.py: herkese açık TV+ kataloğunu indirip mevcut resmî yayın kayıtlarıyla eşleştirir.
+- playlist.m3u: CarTV yayın listesi.
+- official_streams.json: kaynak, adres ve kontrol tarihi.
+- build_playlist.py: kayıt dosyasından M3U oluşturur.
 
-## Listeyi yeniden oluşturma
-Python 3 ile, dosyaların bulunduğu klasörde:
+Python 3 ile yeniden oluşturma:
 
     python build_playlist.py
 
-Ek paket veya TV+ üyeliği gerekmez. Kod yeni yayın URL'si keşfetmez ve mevcut yayınların çalışırlığını yeniden test etmez. Yeniden çalıştırıldığında katalog yenilenir; doğrulama tarihi değiştirilmez. Yeni yayınlar official_streams.json dosyasına yalnızca resmî kaynak ve video erişim kontrolünden sonra eklenmelidir.
-
-TV+ kullanıcı adı, şifre, çerez, erişim anahtarı veya DRM lisansı kullanılmaz. TV+ üyeliğine ait yayınları dışa aktarma, erişim kısıtlamalarını kaldırma veya üyelikli kanallara adres uydurma işlemi yapılmaz. TV+ tarafından belgelenmiş bir M3U dışa aktarma özelliği bu çalışma kapsamında doğrulanmamıştır.
-
-Yayın erişimi zamanla, ülkeye ve yayın haklarına göre değişebilir. iPhone CarTV üzerinde cihaz testi yapılmamıştır. CarTV'de mevcut listeyi yenileyin.
-
-Katalog kaynağı: https://tvplus.com.tr/destek/sss/tvplus-kanallari
+Kod yeni URL keşfetmez; oynatmayı yeniden test etmez. Yeni kayıtlar ancak resmî kaynak ve video erişimi kontrolünden sonra eklenmelidir. iPhone CarTV cihaz testi yapılmamıştır; yayın erişimi ülkeye, haklara ve zamana göre değişebilir.

@@ -145,5 +145,33 @@
     "url": "https://canli.tgrthaber.com/tgrt.m3u8",
     "source": "https://www.tgrteu.com/canli-yayin",
     "verified_on": "2026-10-25"
+  },
+  {
+    "name": "Star TV",
+    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9",
+    "source": "https://player-live.dygdigital.com/js/build.js",
+    "group": "Turkiye",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "HT Spor",
+    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+    "source": "https://www.htspor.com/canli-yayin",
+    "group": "Turkiye",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "360 TV",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+    "source": "https://www.tv360.com.tr/canli-yayin",
+    "group": "Turkiye",
+    "verified_on": "2026-10-25"
+  },
+  {
+    "name": "TV4",
+    "url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
+    "source": "https://www.tv4.com.tr/canli-yayin",
+    "group": "Turkiye",
+    "verified_on": "2026-10-25"
   }
 ]
