@@ -14,7 +14,7 @@ def build():
             continue
         seen.add(stream['url'])
         lines += [f"# Source: {stream['source']} | Verified: {stream['verified_on']}",
-            f'#EXTINF:-1 group-title="{stream["group"]}",{stream["name"]}', stream['url']]
+            f'#EXTINF:-1,{stream["name"]}', stream['url']]
     (ROOT / 'playlist.m3u').write_text('\n'.join(lines) + '\n', encoding='utf-8')
     print(f'{len(seen)} official streams written. This command does not retest playback.')
 
